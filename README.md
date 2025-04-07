@@ -4,9 +4,8 @@ A full-stack web app that lets users generate 6 random lottery numbers, stores t
 ---
 
 ## 📌 Project Members
-- 👩‍💻 Nigar Alizada (Frontend)
-- 👩‍💻 Elifcan Yasar (Frontend)
-- 👨‍💻 Eda Tas - 41501 (Backend & Deployment)
+- 👩‍💻 Nigar Alizada (Frontend & Backend)
+- 👩‍💻 Elifcan Yasar (Frontend & Deployment)
 
 
 ---
