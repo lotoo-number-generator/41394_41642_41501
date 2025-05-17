@@ -14,7 +14,7 @@ A full-stack web app that lets users generate 6 random lottery numbers, stores t
 
 ## 🚀 Live Demo
 
-App is live on - https://nigaralizada9.github.io/41394_41642_41501/
+App is live on - https://lotoo-number-generator.github.io/41394_41642_41501/
 
 - 🎯 **Frontend (React):**  
   https://nigaralizada9.github.io/41394_41642_41501
