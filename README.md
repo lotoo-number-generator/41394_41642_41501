@@ -7,11 +7,14 @@ A full-stack web app that lets users generate 6 random lottery numbers, stores t
 - 👩‍💻 Nigar Alizada (Frontend & Backend)
 - 👩‍💻 Elifcan Yasar (Frontend & Deployment)
 - 👩‍💻 Eda Tas (Frontend & Backend)
+- 👩‍💻 Caner Tatar (Frontend & Backend)
 
 
 ---
 
 ## 🚀 Live Demo
+
+App is live on - https://nigaralizada9.github.io/41394_41642_41501/
 
 - 🎯 **Frontend (React):**  
   https://nigaralizada9.github.io/41394_41642_41501
