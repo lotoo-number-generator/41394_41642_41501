@@ -7,7 +7,7 @@ A full-stack web app that lets users generate 6 random lottery numbers, stores t
 - 👩‍💻 Nigar Alizada (Frontend & Backend)
 - 👩‍💻 Elifcan Yasar (Frontend & Deployment)
 - 👩‍💻 Eda Tas (Frontend & Backend)
-- 👩‍💻 Caner Tatar (Frontend & Backend)
+- 👩‍💻 Caner Tatar [Frontend & Backend]
 
 
 ---
